@@ -1,0 +1,9 @@
+This project will set:
+- .vimrc: shortcut keys, line numbers, relative line numbers, between other common configurations.
+- gruvbox: nice smooth style. 
+- easymotion: to make complex jumps easily.
+- autoclose: to auto close things like brackets, parentheses...
+
+Instructions:
+1. Run 'setup.sh'. Done.
+2. If you want to undo the changes, run 'uninstall.sh'.

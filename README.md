@@ -7,4 +7,4 @@
 - autoclose: to auto close things like brackets, parentheses...
 
 ### How to use:
-1. Run the `setup.sh`.
+1. Run the `setup.sh` script.
